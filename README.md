@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abinash Nath Pandey</h1>
-<h3 align="center">A passionate Web Developer.</h3>
+<h3 align="center">A passionate Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abinash2055&label=Profile%20views&color=0e75b6&style=flat" alt="abinash2055" /> </p>
 
