@@ -5,7 +5,7 @@
      height="100"
      style="border-radius:50%;" alt="abinash2055" /> </p>
 
-<!-- <p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png)"><img src="https://abinashnath-portfolio.vercel.app/" alt="abinash2055" /></a> </p> -->
+ <p align="left"><img src="https://abinashnath-portfolio.vercel.app/assets/logo-Dt4E8plP.svg" alt="abinash2055" /></a> </p> 
 
 <!-- <p align="left">
   <a href="https://abinashnath-portfolio.vercel.app/" target="_blank">
