@@ -7,7 +7,9 @@
 
 <p align="left">
   <a href="https://abinashnath-portfolio.vercel.app/" target="_blank">
-    <img src="https://abinashnath-portfolio.vercel.app/assets/logo-Dt4E8plP.svg"
+    <img src="https://abinashnath-portfolio.vercel.app/assets/logo-Dt4E8plP.svg"width="100"
+     height="100"
+     style="border-radius:50%;
          alt="Portfolio Banner"
          width="400" />
   </a>
