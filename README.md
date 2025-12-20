@@ -5,15 +5,17 @@
      height="100"
      style="border-radius:50%;" alt="abinash2055" /> </p>
 
- <p align="left"><img src="https://abinashnath-portfolio.vercel.app/assets/logo-Dt4E8plP.svg" alt="abinash2055" /></a> </p> 
+ <p align="left"><img src="https://abinashnath-portfolio.vercel.app/assets/logo-Dt4E8plP.svg"  width="100"
+     height="100"
+     style="border-radius:50%; alt="abinash2055" /></a> </p> 
 
-<!-- <p align="left">
+<p align="left">
   <a href="https://abinashnath-portfolio.vercel.app/" target="_blank">
     <img src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"
          alt="Portfolio Banner"
          width="400" />
   </a>
-</p> -->
+</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
