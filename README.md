@@ -13,21 +13,20 @@
   </a>
 </p> -->
 <p align="left">
-  <a href="https://abinashnath-portfolio.vercel.app/"
-     target="_blank"
-     style="text-decoration:none; color:inherit;">
-    
-    <img src="https://abinashnath-portfolio.vercel.app/assets/logo-Dt4E8plP.svg"
-         width="60"
-         height="60"
-         alt="abinash2055"
-         style="border-radius:50%; vertical-align:middle;" />
-    
-    <span style="vertical-align:middle; margin-left:10px; font-weight:600;">
+  <a href="https://abinashnath-portfolio.vercel.app/" target="_blank" style="text-decoration:none; color:inherit;">
+    <img
+      src="https://abinashnath-portfolio.vercel.app/assets/logo-Dt4E8plP.svg"
+      alt="abinash2055"
+      width="60"
+      height="60"
+      style="border-radius:50%; vertical-align:middle;"
+    />
+    <span style="margin-left:10px; vertical-align:middle; font-weight:600;">
       Abinash Nath Pandey
     </span>
   </a>
 </p>
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
