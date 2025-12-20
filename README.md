@@ -1,19 +1,30 @@
 <h1 align="center">Hi 👋, I'm Abinash Nath Pandey</h1>
 <h3 align="center">A passionate Full Stack Developer.</h3>
 
- <p align="left"><img src="https://abinashnath-portfolio.vercel.app/assets/logo-Dt4E8plP.svg"  width="100"
-     height="100"
-     style="border-radius:50%; alt="abinash2055" /></a> </p> 
 
+
+<!-- <p align="left">
+  <a href="https://abinashnath-portfolio.vercel.app/" target="_blank">
+    <img src="https://abinashnath-portfolio.vercel.app/assets/logo-Dt4E8plP.svg"
+         width="100"
+         height="100"
+         alt="Portfolio Banner"
+         style="border-radius:50%;" />
+  </a>
+</p> -->
 <p align="left">
   <a href="https://abinashnath-portfolio.vercel.app/" target="_blank">
-    <img src="https://abinashnath-portfolio.vercel.app/assets/logo-Dt4E8plP.svg"width="100"
-     height="100"
-     style="border-radius:50%;
-         alt="Portfolio Banner"
-         width="400" />
+    <img src="https://abinashnath-portfolio.vercel.app/assets/logo-Dt4E8plP.svg"
+         width="60"
+         height="60"
+         alt="abinash2055"
+         style="border-radius:50%; vertical-align:middle;" />
   </a>
+  <span style="vertical-align:middle; margin-left:10px; font-weight:600;">
+    Abinash Nath Pandey
+  </span>
 </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
