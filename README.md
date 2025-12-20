@@ -21,11 +21,12 @@
       height="60"
       style="border-radius:50%; vertical-align:middle;"
     />
-    <span style="margin-left:10px; vertical-align:middle; font-weight:bold; font-size:24px;">
+    <span style="margin-left:15px; vertical-align:middle; font-weight:bold; font-size:24px;">
       Abinash Nath Pandey
     </span>
   </a>
 </p>
+
 
 
 
