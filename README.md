@@ -13,16 +13,20 @@
   </a>
 </p> -->
 <p align="left">
-  <a href="https://abinashnath-portfolio.vercel.app/" target="_blank">
+  <a href="https://abinashnath-portfolio.vercel.app/"
+     target="_blank"
+     style="text-decoration:none; color:inherit;">
+    
     <img src="https://abinashnath-portfolio.vercel.app/assets/logo-Dt4E8plP.svg"
          width="60"
          height="60"
          alt="abinash2055"
          style="border-radius:50%; vertical-align:middle;" />
+    
+    <span style="vertical-align:middle; margin-left:10px; font-weight:600;">
+      Abinash Nath Pandey
+    </span>
   </a>
-  <span style="vertical-align:middle; margin-left:10px; font-weight:600;">
-    Abinash Nath Pandey
-  </span>
 </p>
 
 
