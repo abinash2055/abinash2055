@@ -2,16 +2,6 @@
 <h3 align="center">A passionate Full Stack Developer.</h3>
 
 
-
-<!-- <p align="left">
-  <a href="https://abinashnath-portfolio.vercel.app/" target="_blank">
-    <img src="https://abinashnath-portfolio.vercel.app/assets/logo-Dt4E8plP.svg"
-         width="100"
-         height="100"
-         alt="Portfolio Banner"
-         style="border-radius:50%;" />
-  </a>
-</p> -->
 <p align="left">
   <a href="https://abinashnath-portfolio.vercel.app/" target="_blank" style="text-decoration:none; color:inherit;">
     <img
@@ -26,8 +16,6 @@
     </span>
   </a>
 </p>
-
-
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
