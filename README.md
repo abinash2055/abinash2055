@@ -3,23 +3,24 @@
 
 
 <p align="left">
-  <a href="https://abinashnath-portfolio.vercel.app/" target="_blank" style="text-decoration:none; color:inherit;">
+ <a href="https://abinashnath-portfolio.vercel.app/" target="_blank" style="text-decoration:none; color:inherit;">
     <img
       src="https://abinashnath-portfolio.vercel.app/assets/logo-Dt4E8plP.svg"
       alt="abinash2055"
       width="60"
       height="60"
-      style=style="
+      style="
         width:60px;
         height:60px;
         border-radius:50%;
         object-fit:cover;
-        vertical-align:middle;"
+        vertical-align:middle;
+      "
     />
     <span style="margin-left:15px; vertical-align:middle; font-weight:bold; font-size:54px;">
       Abinash Nath Pandey
     </span>
-  </a>
+</a>
 </p>
 
 
