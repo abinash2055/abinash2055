@@ -64,11 +64,11 @@
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"
       style="width:35px; height:35px; border-radius:50%;" />
     <span style="font-size:16px; font-weight:bold; ">
-      GitHub
+      abinash2055
     </span>
   </div>
 </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abinash2055&show_icons=true&locale=en" alt="abinash2055" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abinash2055&show_icons=true&locale=en" alt="abinash2055" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abinash2055&" alt="abinash2055" /></p>
