@@ -58,29 +58,12 @@
 
 <!--  GitHub Logo  -->
 <a href="https://github.com/" target="_blank" style="text-decoration:none; display:inline-block;">
-  <div style="
-    position:relative;
-    width:90px;
-    height:90px;
-    display:inline-block;
-    transition:0.2s ease;
-  "
-  onmouseover="this.style.transform='scale(1.08)'"
+  <div style="display:flex; align-items:center; gap:10px; transition:0.2s ease;"
+  onmouseover="this.style.transform='scale(1.05)'"
   onmouseout="this.style.transform='scale(1)'">
-    <img 
-      src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-      alt="GitHub"
-      style="
-        width:100%;
-        height:100%;
-        border-radius:50%;"
-    />
-    <span style="
-      position:absolute;
-      transform:translate(-50%, -50%);
-      font-size:14px;
-      font-weight:bold;
-      text-shadow:0 0 6px black;">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"
+      style="width:35px; height:35px; border-radius:50%;" />
+    <span style="font-size:16px; font-weight:bold; ">
       GitHub
     </span>
   </div>
