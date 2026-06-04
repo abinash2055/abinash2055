@@ -73,18 +73,13 @@
       style="
         width:100%;
         height:100%;
-        border-radius:50%;
-        display:block;
-      "
+        border-radius:50%;"
     />
     <span style="
       position:absolute;
-      top:50%;
-      left:50%;
       transform:translate(-50%, -50%);
       font-size:14px;
       font-weight:bold;
-      color:white;
       text-shadow:0 0 6px black;">
       GitHub
     </span>
