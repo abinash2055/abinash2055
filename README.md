@@ -3,7 +3,7 @@
 
 
 <p align="left">
- <a href="https://abinashnath-portfolio.vercel.app/" target="_blank" style="text-decoration:none; color:inherit;">
+ <a href="https://abinashnath-portfolio.vercel.app/" target="_blank" style="text-decoration:none; color:inherit; display:flex; align-items:center; gap:15px;">
     <img
       src="https://abinashnath-portfolio.vercel.app/assets/logo-Dt4E8plP.svg"
       alt="abinash2055"
