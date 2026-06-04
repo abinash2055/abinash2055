@@ -24,7 +24,7 @@
 </p>
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **MACHINE LEARNING and MERN**
 
