@@ -3,18 +3,16 @@
 
 
 <p align="left">
- <a href="https://abinashnath-portfolio.vercel.app/" target="_blank" style="text-decoration:none; color:inherit; display:flex; align-items:center; gap:15px;">
+ <a href="https://abinashnath-portfolio.vercel.app/" target="_blank" style="text-decoration:none; color:inherit; display:flex; align-items:center; gap:35px;">
     <img
       src="https://abinashnath-portfolio.vercel.app/assets/logo-Dt4E8plP.svg"
       alt="abinash2055"
       width="60"
       height="60"
       style="
-        width:60px;
-        height:60px;
         border-radius:50%;
         object-fit:cover;
-        vertical-align:middle;
+        display:block;
       "
     />
     <span style="margin-left:15px; vertical-align:middle; font-weight:bold; font-size:54px;">
