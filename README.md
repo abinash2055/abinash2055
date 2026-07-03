@@ -104,9 +104,6 @@ Closed within 5 minutes
 </a>
 
 <br>
-<br>
-<br>
-<br>
 
 ---
 
