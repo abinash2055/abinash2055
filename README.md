@@ -174,12 +174,21 @@ Closed within 5 minutes
 </p>
 
 ---
+
 <h2 align="left">
   GitHub Analytics
 </h2>
 
+<p align="center"> 
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=abinash2055&theme=tokyo-night&hide_border=true&bg_color=00000000" /> 
+</p> 
 
-
-</p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanshre-sandip&theme=tokyo-night&hide_border=true&bg_color=00000000" /> </p> <p align="center"> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanshre-sandip&theme=tokyonight" /> </p> <p align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanshre-sandip&theme=tokyonight" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanshre-sandip&theme=tokyonight" /> </p>
+<p align="center"> 
+ <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abinash2055&theme=tokyonight" />
+</p> 
+<p align="center"> 
+ <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abinash2055&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abinash2055&theme=tokyonight" />
+</p>
 
 
