@@ -58,7 +58,7 @@ Closed within 5 minutes
 </tr>
 </table>
 
-- 🌱 I’m currently learning **MACHINE LEARNING and MERN**
+- 🌱 I’m currently learning **MACHINE LEARNING and LLM with RAG**
 
 - 📫 How to reach me **abinashnathpandey@gmail.com**
 
