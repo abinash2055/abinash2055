@@ -23,39 +23,28 @@
 
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge]" alt="" /></a> </p> -->
-<h3 align="left">🏆 GitHub Achievements</h3>
+<h3>🏆 GitHub Achievements</h3>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/abinash2055?tab=achievements">
-        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" alt="Pull Shark"/>
-      </a>
-      <br>
-      <b>🦈 Pull Shark</b>
-    </td>
+<p>
+  <a href="https://github.com/abinash2055?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark">
+  </a>
+  <b>Pull Shark</b>
 
-    <td width="25"></td>
+  &nbsp;&nbsp;&nbsp;
 
-    <td align="center">
-      <a href="https://github.com/abinash2055?tab=achievements">
-        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90" alt="YOLO"/>
-      </a>
-      <br>
-      <b>🤠 YOLO</b>
-    </td>
+  <a href="https://github.com/abinash2055?tab=achievements">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO">
+  </a>
+  <b>YOLO</b>
 
-    <td width="25"></td>
+  &nbsp;&nbsp;&nbsp;
 
-    <td align="center">
-      <a href="https://github.com/abinash2055?tab=achievements">
-        <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" alt="Quickdraw"/>
-      </a>
-      <br>
-      <b>⚡ Quickdraw</b>
-    </td>
-  </tr>
-</table>
+  <a href="https://github.com/abinash2055?tab=achievements">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" alt="Quickdraw">
+  </a>
+  <b>Quickdraw</b>
+</p>
 
 - 🌱 I’m currently learning **MACHINE LEARNING and MERN**
 
