@@ -165,25 +165,6 @@ Closed within 5 minutes
  </a>
 </p>
 
-
-
-
-
----
-
-<!--  GitHub Logo  -->
-<a href="https://github.com/" target="_blank" style="text-decoration:none; display:inline-block;">
-  <div style="display:flex; align-items:center; gap:10px; transition:0.2s ease;"
-  onmouseover="this.style.transform='scale(1.05)'"
-  onmouseout="this.style.transform='scale(1)'">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"
-      style="width:35px; height:35px; border-radius:50%;" />
-    <span style="font-size:16px; font-weight:bold; ">
-      abinash2055
-    </span>
-  </div>
-</a>
-
 ---
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abinash2055&show_icons=true&locale=en" alt="abinash2055" /></p> -->
