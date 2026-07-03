@@ -25,26 +25,38 @@
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge]" alt="" /></a> </p> -->
 <h3>🏆 GitHub Achievements</h3>
 
-<p>
-  <a href="https://github.com/abinash2055?tab=achievements">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark">
-  </a>
-  <b>Pull Shark</b>
+<table>
+<tr>
 
-  &nbsp;&nbsp;&nbsp;
+<td align="center" width="180">
+<a href="https://github.com/abinash2055?tab=achievements">
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90">
+</a>
 
-  <a href="https://github.com/abinash2055?tab=achievements">
-    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO">
-  </a>
-  <b>YOLO</b>
+### 🦈 Pull Shark
+Merged Pull Requests
+</td>
 
-  &nbsp;&nbsp;&nbsp;
+<td align="center" width="180">
+<a href="https://github.com/abinash2055?tab=achievements">
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90">
+</a>
 
-  <a href="https://github.com/abinash2055?tab=achievements">
-    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" alt="Quickdraw">
-  </a>
-  <b>Quickdraw</b>
-</p>
+### 🤠 YOLO
+Merged without review
+</td>
+
+<td align="center" width="180">
+<a href="https://github.com/abinash2055?tab=achievements">
+<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90">
+</a>
+
+### ⚡ Quickdraw
+Closed within 5 minutes
+</td>
+
+</tr>
+</table>
 
 - 🌱 I’m currently learning **MACHINE LEARNING and MERN**
 
