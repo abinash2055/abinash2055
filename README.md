@@ -32,7 +32,7 @@
   <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw" width="95"/>
 </p>
 
-<p align="center">
+<p>
   <b>Pull Shark</b> &nbsp;&nbsp;&nbsp;&nbsp;
   <b>YOLO</b> &nbsp;&nbsp;&nbsp;&nbsp;
   <b>Quickdraw</b>
