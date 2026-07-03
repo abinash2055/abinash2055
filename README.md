@@ -24,7 +24,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge]" alt="" /></a> </p> -->
 <h3 align="left">🏆 GitHub Achievements</h3>
-<p align="center">
+<p>
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" width="95"/>
   &nbsp;&nbsp;
   <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="YOLO" width="95"/>
