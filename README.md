@@ -23,20 +23,20 @@
 
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge]" alt="" /></a> </p> -->
-<h3 align="left">🏆 GitHub Achievements</h3>
+<h3 align="center">🏆 GitHub Achievements</h3>
 
 <p align="center">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" width="95"/>
-  &nbsp;&nbsp;
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="YOLO" width="95"/>
-  &nbsp;&nbsp;
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw" width="95"/>
-</p>
+  <a href="https://github.com/abinash2055?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90"/>
+  </a>
 
-<p align="center">
-  <b>Pull Shark</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>YOLO</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Quickdraw</b>
+  <a href="https://github.com/abinash2055?tab=achievements">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90"/>
+  </a>
+
+  <a href="https://github.com/abinash2055?tab=achievements">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90"/>
+  </a>
 </p>
 
 - 🌱 I’m currently learning **MACHINE LEARNING and MERN**
