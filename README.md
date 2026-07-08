@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack, Laravel, MERN Developer & AI/ML.</h3>
 
 ---
-<table>
+<table align="center">
 <tr>
 <td align="center" width="80">
 
@@ -25,7 +25,7 @@
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge]" alt="" /></a> </p> -->
 <h3>🏆 GitHub Achievements</h3>
 
-<table>
+<table align="center">
 <tr>
 
 <td align="center" width="180">
