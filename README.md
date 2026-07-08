@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Full Stack, Laravel, MERN Developer & AI/ML.</h3>
 
 ---
+
 <table align="center">
 <tr>
 <td align="center" width="80">
