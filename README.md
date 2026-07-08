@@ -1,26 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abinash Nath Pandey</h1>
 <h3 align="center">A passionate Full Stack, Laravel, MERN Developer & AI/ML.</h3>
 
-
-<p align="left">
- <a href="https://abinashnath-portfolio.vercel.app/" target="_blank" style="text-decoration:none; color:inherit; display:flex; align-items:center; gap:35px;">
-    <img
-      src="https://abinashnath-portfolio.vercel.app/assets/logo-Dt4E8plP.svg"
-      alt="abinash2055"
-      width="60"
-      height="60"
-      style="
-        border-radius:50%;
-        object-fit:cover;
-        display:block;
-      "
-    />
-    <span style="margin-left:30px; vertical-align:middle; font-weight:bold; font-size:54px;">
-      Abinash Nath Pandey
-    </span>
-</a>
-</p>
-
 ---
 <table>
 <tr>
