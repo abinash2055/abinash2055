@@ -22,6 +22,25 @@
 </p>
 
 ---
+<table>
+<tr>
+<td align="center" width="80">
+
+<a href="https://abinashnath-portfolio.vercel.app">
+<img src="https://abinashnath-portfolio.vercel.app/assets/logo-Dt4E8plP.svg" width="70" alt="Logo"/>
+</a>
+
+</td>
+<td>
+
+# Abinash Nath Pandey
+
+🌐 **Portfolio:** https://abinashnath-portfolio.vercel.app/
+
+</td>
+</tr>
+</table>
+---
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge]" alt="" /></a> </p> -->
 <h3>🏆 GitHub Achievements</h3>
