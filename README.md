@@ -62,7 +62,7 @@ Closed within 5 minutes
 
 ---
 
-- 🌱 I’m currently learning and working **MACHINE LEARNING and LLM with RAG**
+- 🌱 I’m currently learning and working **GENERATIVE AI, MACHINE LEARNING and LLM with RAG**
 
 - 📫 How to reach me **abinashnathpandey@gmail.com**
 
